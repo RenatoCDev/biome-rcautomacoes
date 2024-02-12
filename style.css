@@ -29,7 +29,7 @@ body {
 }
 
 body * {
-  font-family: "VT323", sans-serif;
+  font-family: "Comfortaa", sans-serif;
   color: var(--text-color);
 } /* O "*" funciona como um seletor universal. Essa configuração CSS distribui a fonte Inter em todos os tectos do body.*/
 

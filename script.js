@@ -12,8 +12,8 @@ function /*Função do JS*/ toggleMode() {
   const img = document.querySelector("#profile img")
 
   if (html.classList.contains("light")) {
-    img.setAttribute("src", "./assets/assets/Programador de coque Logo.jpg")
+    img.setAttribute("src", "./assets/assets/Logo-circulo-roxo.png")
   } else {
-    img.setAttribute("src", "./assets/assets/Programador de coque ok 2.jpg")
+    img.setAttribute("src", "./assets/assets/Logo-circulo-branco.png")
   }
 }
